@@ -1,6 +1,6 @@
 # Catch the offer
 
-Description of the game: [You need to get a certain number of offers to win. If you miss a certain amount, you will lose.]
+Description of the game: You need to get a certain number of offers to win. If you miss a certain amount, you will lose.
 
 ## Installation
 
