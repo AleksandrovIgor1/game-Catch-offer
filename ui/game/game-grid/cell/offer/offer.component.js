@@ -9,3 +9,13 @@ export function Offer() {
 	return element;
 
 }
+export function MissedOffer() {
+	const element = document.createElement('img');
+	element.src = './assets/images/offerError.png';
+	return element;
+}
+export function CaughtOffer() {
+	const element = document.createElement('img');
+	element.src = './assets/images/offerOk.png';
+	return element;
+}
